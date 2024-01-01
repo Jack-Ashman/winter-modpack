@@ -1,0 +1,13 @@
+filename = 'map-in-slot-3.0.0.jar'
+name = 'Map In Slot'
+side = 'client'
+
+[download]
+hash = '3abe2a49b1629b1a3e700bce8569a2974608d87254fc27fbedabb539c506185c91973f7f4fee5a2c2620b3f898b8e5e50da011827588d8be56605a6fedb549e6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EpKz6cxj/versions/u9rQ5EKn/map-in-slot-3.0.0.jar'
+
+[update.modrinth]
+mod-id = 'EpKz6cxj'
+version = 'u9rQ5EKn'

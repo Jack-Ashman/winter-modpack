@@ -1,0 +1,13 @@
+filename = 'u_team_core-fabric-1.20.1-5.1.4.269.jar'
+name = 'U Team Core'
+side = 'both'
+
+[download]
+hash = '568eb93b34db97209744eb523d1d81f7663a3b4d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4681287
+project-id = 273744

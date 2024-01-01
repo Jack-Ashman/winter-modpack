@@ -1,0 +1,13 @@
+filename = 'BotanyPots-Fabric-1.20.1-13.0.18.jar'
+name = 'Botany Pots'
+side = 'both'
+
+[download]
+hash = 'd14abae605524f5c40707c6538a3b780eae1a784ef02094f6b83a362581f3f5e8863a70a6471821abb807ecba2387bcd90179a002109f90fe758c36a8d124377'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/U6BUTZ7K/versions/dvxmymEA/BotanyPots-Fabric-1.20.1-13.0.18.jar'
+
+[update.modrinth]
+mod-id = 'U6BUTZ7K'
+version = 'dvxmymEA'

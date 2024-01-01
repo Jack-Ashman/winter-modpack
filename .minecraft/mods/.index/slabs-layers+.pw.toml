@@ -1,0 +1,13 @@
+filename = 'moreslabs-3.0.jar'
+name = 'Slabs & Layers+'
+side = 'both'
+
+[download]
+hash = '92fee9b45df5147a97128ece32bcb698c61d5dc1fd8d26ae06b98487c06a367228d8d55600bbe42343b05614f19c80959d0be3089ee4349987260af953bd81be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cE6TrOzW/versions/nPP6FwYq/moreslabs-3.0.jar'
+
+[update.modrinth]
+mod-id = 'cE6TrOzW'
+version = 'nPP6FwYq'

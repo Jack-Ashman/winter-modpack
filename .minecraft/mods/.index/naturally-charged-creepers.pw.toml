@@ -1,0 +1,13 @@
+filename = 'naturallychargedcreepers-1.20.1-3.4.jar'
+name = 'Naturally Charged Creepers'
+side = 'both'
+
+[download]
+hash = '37710350ad282554491ef215cdf538ba1cae407de732266924b2e2e4e825c7397d8c3025a84fe47c16d1555684e179fb15622150ab65cea2bece53828fc485e1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/j5LquiGA/versions/Duda19mH/naturallychargedcreepers-1.20.1-3.4.jar'
+
+[update.modrinth]
+mod-id = 'j5LquiGA'
+version = 'Duda19mH'

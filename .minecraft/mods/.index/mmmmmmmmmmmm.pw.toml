@@ -1,0 +1,13 @@
+filename = 'dummmmmmy-1.20-1.8.13-fabric.jar'
+name = 'MmmMmmMmmMmm'
+side = 'both'
+
+[download]
+hash = '023a8a7704d898bd111a9b5d6c3c43aad86991b18d85e136ed891ff2624067813756fc0f11af60c9e040b34d073274aecea00625713732697b2f30aa4367d885'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Adega8YN/versions/sQU1xRdi/dummmmmmy-1.20-1.8.13-fabric.jar'
+
+[update.modrinth]
+mod-id = 'Adega8YN'
+version = 'sQU1xRdi'

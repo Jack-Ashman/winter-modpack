@@ -1,0 +1,13 @@
+filename = 'youre-in-grave-danger-2.0.0-beta.6.jar'
+name = "You're in Grave Danger"
+side = 'both'
+
+[download]
+hash = 'b167c39b8aab584d5e52c5b04287ecc5cf12a8256c24c54a1fcc38b5e17d3e488247ab641173513ad9cea592f21953f9668db062ee3359d19253162cb5532fa2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HnD1GX6e/versions/7YpT3kYv/youre-in-grave-danger-2.0.0-beta.6.jar'
+
+[update.modrinth]
+mod-id = 'HnD1GX6e'
+version = '7YpT3kYv'

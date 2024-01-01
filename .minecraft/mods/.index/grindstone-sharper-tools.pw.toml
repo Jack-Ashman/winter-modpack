@@ -1,0 +1,13 @@
+filename = 'grindstonesharpertools-1.20.1-3.4.jar'
+name = 'Grindstone Sharper Tools'
+side = 'both'
+
+[download]
+hash = '228762a62e39d871cbb6b18a34dbc74c31b2bf21b3e5e464fd56082d3bac2818f889e2f8a9db32fcf802ec68facab299496e330ad4995356606a8558a9314794'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/p6y1z1Qa/versions/23Pg5GjJ/grindstonesharpertools-1.20.1-3.4.jar'
+
+[update.modrinth]
+mod-id = 'p6y1z1Qa'
+version = '23Pg5GjJ'

@@ -1,0 +1,13 @@
+filename = 'EnhancedBookWriting-1.1.0+mc1.19.4.jar'
+name = 'Enhanced Book Writing'
+side = 'client'
+
+[download]
+hash = '885ffcc1b890c33b726592bb1b571638a57cfcff160e68842ec91393e0a52f7df9650c89a542b7cd138f8fc295a1964307c6a905c347be8cf51c6605a17778fc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6XFa5bbd/versions/GbOppCbv/EnhancedBookWriting-1.1.0%2Bmc1.19.4.jar'
+
+[update.modrinth]
+mod-id = '6XFa5bbd'
+version = 'GbOppCbv'

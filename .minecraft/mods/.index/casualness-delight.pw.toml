@@ -1,0 +1,13 @@
+filename = 'CasualnessDelight-1.20.1-0.3a.jar'
+name = 'Casualness Delight Fabric'
+side = 'both'
+
+[download]
+hash = '8c41b72a411ca2fad72c0e84750d3faa74d2f9d57766fcf06da4cdb06e4b69a4b46590195502a06d0196d4e7eff4e43eff2a33af7b6273c6f3d6db8b712d9860'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zYuGPZIx/versions/Yf7nWvMM/CasualnessDelight-1.20.1-0.3a.jar'
+
+[update.modrinth]
+mod-id = 'zYuGPZIx'
+version = 'Yf7nWvMM'

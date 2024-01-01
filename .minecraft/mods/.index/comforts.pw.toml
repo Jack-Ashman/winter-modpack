@@ -1,0 +1,13 @@
+filename = 'comforts-fabric-6.3.4+1.20.1.jar'
+name = 'Comforts'
+side = 'both'
+
+[download]
+hash = 'd92e86aeb603a152a3250f0299a7c3cb6d27eb8e1202bdf9eb6496e1a26839f8f62b349a438319025c6bc25726004b2c6ecd5f8256d2a6cbf075e058e83edac4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SaCpeal4/versions/XARWuNYu/comforts-fabric-6.3.4%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'SaCpeal4'
+version = 'XARWuNYu'

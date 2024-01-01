@@ -1,0 +1,13 @@
+filename = 'fm_audio_extension_fabric_1.1.2_MC_1.20.1.jar'
+name = 'Audio Extension for FancyMenu'
+side = 'client'
+
+[download]
+hash = '1879d161ceda8268d97fec0749db57cc33f0301701364ad3bd9f95bddc543275cb6cc15837d2393beb860c3a7d8fb147cf7ff5f50048958e36205c295da6543e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pFgXNvCD/versions/RWRIo6v9/fm_audio_extension_fabric_1.1.2_MC_1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'pFgXNvCD'
+version = 'RWRIo6v9'

@@ -1,0 +1,13 @@
+filename = 'moonlight-1.20-2.8.72-fabric.jar'
+name = 'Moonlight'
+side = 'both'
+
+[download]
+hash = 'e640c0c8e752e02d7a8292cee81790e4460fa481575143890083711c88676e32eb02ec0c87b6e18c878daa7096fbcc31096594ce53a514efd626e61a7ba3a5ce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/twkfQtEc/versions/wnLFf0Nc/moonlight-1.20-2.8.72-fabric.jar'
+
+[update.modrinth]
+mod-id = 'twkfQtEc'
+version = 'wnLFf0Nc'

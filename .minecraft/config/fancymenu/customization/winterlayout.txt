@@ -1,0 +1,312 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = Winter Panorama v2
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 14
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 200
+  action = resizebutton
+  height = 18
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 103
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=628394%
+  orientation = mid-centered
+  x = 103
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=914980%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=914980%
+  orientation = bottom-right
+  x = -121
+  action = movebutton
+  y = -91
+}
+
+customization {
+  identifier = %id=29801%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -123
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376310%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=4948%
+  orientation = bottom-left
+  x = 2
+  action = movebutton
+  y = -47
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -34
+}
+
+customization {
+  identifier = %id=2968%
+  orientation = bottom-left
+  x = 2
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 1
+  action = movebutton
+  y = 60
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = e43880c8-07e1-4b2d-b9b4-854ceb11fafd1703197845535
+  y = 708
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 743
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = de50549b-4dbc-47f2-a960-fed68d8218761703197845547
+  y = 280
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 263
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = d897fe19-f54f-4f00-9609-c677536e91641703197845547
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = d207da90-6ed4-4ad0-bf9c-6b3c801985071703197845547
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-centered
+  basecolor = #ffff00
+  shadow = true
+  rotation = 20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = 144
+  actionid = dcfe55b3-fa3b-4911-872c-9787ad31dc4b1703198048736
+  action = addsplash
+  y = 68
+  text = Merry Christmas!
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver;209.142.103.6:25585%btnaction_splitter_fm%
+  x = 2
+  width = 98
+  action = addbutton
+  actionid = 11aa731b-b3ab-4cb2-addc-543fb5557db51703198417694
+  y = -10
+  label = Winter Server
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  x = -51
+  width = 32
+  action = addbutton
+  actionid = 795ff831-ac7e-4c63-a4b0-1b57c6ecaeff1703352633938
+  y = 180
+  label = Ho
+  clicksound = fancymenu_resources/hohoho_krek.wav
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  x = -16
+  width = 32
+  action = addbutton
+  actionid = 66a096ca-bfc0-4ed9-9a15-cef9668c39741703352673790
+  y = 180
+  label = Ho
+  clicksound = fancymenu_resources/hohoho_tilly.wav
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  x = 19
+  width = 32
+  action = addbutton
+  actionid = 2324aafc-1f38-42fe-805f-b50caba5d2961703352675376
+  y = 180
+  label = Ho!
+  clicksound = fancymenu_resources/hohoho_jack.wav
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  x = 1178
+  width = 100
+  action = addbutton
+  actionid = 8edd53ee-dfbc-47f6-ab6f-d3b584dd31741703356101293
+  y = 687
+  label = Merry Christmas!
+  clicksound = fancymenu_resources/merry_xmas.wav
+  height = 20
+}
+
+customization {
+  path = fancymenu_resources/minecraft_title.png
+  orientation = top-centered
+  x = -179
+  width = 359
+  action = addtexture
+  actionid = a577386e-dd1d-4d3c-aae9-a84b20b9dc251703685387419
+  y = 64
+  height = 100
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  rotation = -20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = 447
+  actionid = 0e0c71b8-efbd-4685-8dcc-aa6121b8e5f21703722706364
+  action = addsplash
+  y = 59
+  text = GrodCraft!
+}
+
+customization {
+  path = 
+  orientation = top-left
+  x = 0
+  width = -1
+  action = addtexture
+  actionid = e056cafa-7b82-41b7-81fb-951b8cb7d9f01703722745633
+  y = 10
+  height = 100
+}
+

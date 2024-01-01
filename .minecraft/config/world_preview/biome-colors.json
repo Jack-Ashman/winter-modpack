@@ -1,0 +1,26 @@
+{
+  "minecraft:snowy_slopes": {
+    "r": 255,
+    "g": 3,
+    "b": 3,
+    "cave": false
+  },
+  "minecraft:snowy_plains": {
+    "r": 255,
+    "g": 0,
+    "b": 0,
+    "cave": false
+  },
+  "minecraft:snowy_taiga": {
+    "r": 255,
+    "g": 3,
+    "b": 3,
+    "cave": false
+  },
+  "minecraft:snowy_beach": {
+    "r": 255,
+    "g": 2,
+    "b": 2,
+    "cave": false
+  }
+}

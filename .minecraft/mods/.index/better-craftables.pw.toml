@@ -1,0 +1,13 @@
+filename = 'better-craftables-v1.3.0.jar'
+name = 'Better Craftables'
+side = 'both'
+
+[download]
+hash = '938841fc85b8ff15fb8bc1728eafb1ed9eedf8ecbeb375caef3cde89a503d9e3b3601da1fb49f1b701293025e965df165bdeb1b94d385e5f43d499538743116b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BLG002oq/versions/gzNwrXUg/better-craftables-v1.3.0.jar'
+
+[update.modrinth]
+mod-id = 'BLG002oq'
+version = 'gzNwrXUg'

@@ -1,0 +1,13 @@
+filename = 'handoveryouritems-1.20.1-3.2.jar'
+name = 'Hand Over Your Items'
+side = 'both'
+
+[download]
+hash = '6240932e0d8b375121016d0e61e20d5142961fb075241eb602e18425e660dae7b34bbfd31ebc8df27b76e259224c2524cf401a231bd6e4c083f47900e07cfd08'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z9RMqaGu/versions/AX98rjQl/handoveryouritems-1.20.1-3.2.jar'
+
+[update.modrinth]
+mod-id = 'Z9RMqaGu'
+version = 'AX98rjQl'

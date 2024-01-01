@@ -1,0 +1,13 @@
+filename = 'konkrete_fabric_1.7.0-1_MC_1.20.1.jar'
+name = 'Konkrete [Fabric]'
+side = 'both'
+
+[download]
+hash = 'fc8d01633952885a85fbdead79d23f1f344d5105'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4805619
+project-id = 416797

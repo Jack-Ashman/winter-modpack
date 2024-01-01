@@ -1,0 +1,48 @@
+{
+  "showHudMessage": true,
+  "addToHistory": true,
+  "codeMsgMapDual": {},
+  "msgKeyListMono": [
+    {
+      "keyCode": {
+        "field_1663": "key.keyboard.keypad.decimal",
+        "field_1666": "KEYSYM",
+        "field_1665": 330,
+        "field_24196": {
+          "field_15719": {}
+        }
+      },
+      "msg": "//replacenear 1000 hibernalherbs:myqueste_sapling air",
+      "keyMapping": {
+        "field_1660": "CK330",
+        "field_1654": {
+          "field_1663": "key.keyboard.keypad.decimal",
+          "field_1666": "KEYSYM",
+          "field_1665": 330,
+          "field_24196": {
+            "field_15719": {}
+          }
+        },
+        "field_1659": "keygroup.commandkeys.mono",
+        "field_1655": {
+          "field_1663": "key.keyboard.keypad.decimal",
+          "field_1666": "KEYSYM",
+          "field_1665": 330,
+          "field_24196": {
+            "field_15719": {}
+          }
+        },
+        "field_1653": false,
+        "field_1661": 0,
+        "keyModifiers": {
+          "value": [
+            false,
+            false,
+            false
+          ]
+        },
+        "contexts": []
+      }
+    }
+  ]
+}

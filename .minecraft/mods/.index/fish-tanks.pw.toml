@@ -1,0 +1,13 @@
+filename = 'FishTank-1.0.2-1.20.1-fabric.jar'
+name = 'Fish Tanks'
+side = 'both'
+
+[download]
+hash = 'ecfbec32bea65f5ea93d519d6ede600963e0da7c8f1d20733bf1a4295959380486ebdd2b8708d9843e58b124ecadda394d48bce4cb6cb62ca061afaa45cfcf59'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3M3QnxVe/versions/euBKYLPo/FishTank-1.0.2-1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = '3M3QnxVe'
+version = 'euBKYLPo'

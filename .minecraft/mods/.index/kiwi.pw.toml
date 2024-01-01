@@ -1,0 +1,13 @@
+filename = 'Kiwi-1.20.1-fabric-11.3.0.jar'
+name = 'Kiwi Library'
+side = 'both'
+
+[download]
+hash = '378ba52103e40c035daf7c9517a7ef79edcb73858049a937a36012fe0f7b5b529d7bd7104002decac9398beca70d27dddaab7458af8b5bf648846b91df12072a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ufdDoWPd/versions/kyG6D8vz/Kiwi-1.20.1-fabric-11.3.0.jar'
+
+[update.modrinth]
+mod-id = 'ufdDoWPd'
+version = 'kyG6D8vz'
