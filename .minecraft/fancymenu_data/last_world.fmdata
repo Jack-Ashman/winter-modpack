@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = 209.142.103.6:25585
+  is_server = false
+  world = C:/Users/jackw/AppData/Roaming/PrismLauncher/instances/Winter Modpack v1.3/.minecraft/saves/New World
 }
 

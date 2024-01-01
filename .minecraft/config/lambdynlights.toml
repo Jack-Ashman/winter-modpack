@@ -536,6 +536,7 @@ mode = "fancy"
 				red_merchant = true
 				bomb = true
 				rope_arrow = true
+				hat_stand = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
@@ -673,9 +674,6 @@ mode = "fancy"
 				betta = true
 				piranha = true
 				oscar = true
-				sea_angel = true
-				frilled_shark = true
-				nautilus = true
 
 			[light_sources.settings.entities.snuffles]
 				snuffle = true
@@ -699,8 +697,4 @@ mode = "fancy"
 
 			[light_sources.settings.entities.handcrafted]
 				seat = true
-				fancy_painting = true
-
-			[light_sources.settings.entities.doapi]
-				chair = true
 

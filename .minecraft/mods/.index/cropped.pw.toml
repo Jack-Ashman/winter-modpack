@@ -1,0 +1,13 @@
+filename = 'Cropped-1.0.1.jar'
+name = 'Cropped'
+side = 'both'
+
+[download]
+hash = '2397bf74c616b9153095cdfb90eee76bf74d48d7f72a54836ba42092b2db3d86c24009a3d3ba76dcb9d981da483d2be865ff1072aa643e45b45d5cba885f5870'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DvdWYd72/versions/bUOXdEp0/Cropped-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'DvdWYd72'
+version = 'bUOXdEp0'
