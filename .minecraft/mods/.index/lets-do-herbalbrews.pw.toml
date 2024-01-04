@@ -1,13 +1,13 @@
-filename = 'letsdo-herbalbrews-fabric-1.0.1.jar'
+filename = 'letsdo-herbalbrews-fabric-1.0.2.jar'
 name = 'Herbal Brews'
 side = 'both'
 
 [download]
-hash = '06d595780ab4c7c6f1550d41b481273b50c24c06d36eaefa809bea3d89a9a75532538493ddd2dea57e24f068dfef3ae2292bcf5c3055c509c8da58ffb1596bcb'
+hash = '0b44dd71049dd76f8e4020c51baccc1bec05ae1e0fbac75cb33d024c86bb6b4857950c18f5918aaf31ba1ff7e2b04045eacac37b0e45851c2ee76a24453f447d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Eh11TaTm/versions/XxFjsFOO/letsdo-herbalbrews-fabric-1.0.1.jar'
+url = 'https://cdn.modrinth.com/data/Eh11TaTm/versions/IfabuRd1/letsdo-herbalbrews-fabric-1.0.2.jar'
 
 [update.modrinth]
 mod-id = 'Eh11TaTm'
-version = 'XxFjsFOO'
+version = 'IfabuRd1'

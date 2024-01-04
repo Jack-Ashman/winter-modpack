@@ -1,5 +1,7 @@
+.git
+.minecraft/automodpack
+.minecraft/config/urlmusicdiscs/client_downloads
 .minecraft/options.txt
-.minecraft/resourcepacks/Banana Pack 1.8.zip
 .minecraft/resourcepacks/VanillaTweaks_r239590.zip
 .minecraft/resourcepacks/WinterPack_1.20.2_v1.8.1.zip
 .minecraft/saves

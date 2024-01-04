@@ -1,0 +1,13 @@
+filename = 'clutter-1.20-0.5.6.jar'
+name = 'Clutter'
+side = 'both'
+
+[download]
+hash = '7f2262486ecc2f3c5e9414b63208bd9dfb93baecdd74abc488c8ab779f6341e7dc717614ba56f8f27eb46a5961cd45367c3e3150f8e0f48b6468fb9b05648379'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KZAmykow/versions/c11dpnmh/clutter-1.20-0.5.6.jar'
+
+[update.modrinth]
+mod-id = 'KZAmykow'
+version = 'c11dpnmh'

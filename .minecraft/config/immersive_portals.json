@@ -44,6 +44,7 @@
   "enableImmPtlChunkLoading": true,
   "disabledWarnings": [
     "entityculling",
+    "voicechat",
     "create",
     "many_mods",
     "collective"

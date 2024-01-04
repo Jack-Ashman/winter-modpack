@@ -1,13 +1,13 @@
-filename = 'HibernalHerbs-fabric-1.20.1-1.1-hotfix-3.jar'
+filename = 'HibernalHerbs-fabric-1.20.1-1.1-hotfix-4.jar'
 name = 'Hibernal Herbs'
 side = 'both'
 
 [download]
-hash = '1dfe4e2aa7ff33b64a716dc606af797c752d1b856c4a67ce0cc9fe53bc6e2052cc8f67fe17b6966f62c932015bccadf54f983ab055ac484b4822a6f1cea73fb8'
+hash = '2ad3e602bb50e930eac72292746c83661e2e23ea2a36b14d975cb63c4c8da9dc958ab3bf001bb57a48d02a5392d3bb6b8e67d6f6a390769a46942ed49bfc0a80'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/8fBUTFL3/versions/gqeWgOgU/HibernalHerbs-fabric-1.20.1-1.1-hotfix-3.jar'
+url = 'https://cdn.modrinth.com/data/8fBUTFL3/versions/2Am71oJq/HibernalHerbs-fabric-1.20.1-1.1-hotfix-4.jar'
 
 [update.modrinth]
 mod-id = '8fBUTFL3'
-version = 'gqeWgOgU'
+version = '2Am71oJq'

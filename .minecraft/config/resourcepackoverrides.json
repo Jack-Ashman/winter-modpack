@@ -1,3 +1,101 @@
 {
-  "schema_version": "2"
+  "schema_version": "2",
+    "default_overrides": {
+      "force_compatible": true
+    },
+
+    "pack_overrides": {
+      "bakery:minecraft_bricks": {
+        "hidden": true,
+        "required": true
+      },
+
+      "continuity:glass_pane_culling_fix": {
+        "hidden": true,
+        "required": true
+      },
+
+      "supplementaries:darker_ropes": {
+        "hidden": true,
+        "required": true
+      },
+
+      "minecraft:highlight_extended": {
+        "hidden": true,
+        "required": true
+      },
+
+      "hibernalherbs:modernized": {
+        "hidden": true,
+        "required": true
+      },
+
+      "continuity:default": {
+        "hidden": true,
+        "required": true
+      },
+
+      "Moonlight Mods Dynamic Assets": {
+        "hidden": true,
+        "required": true
+      },
+
+      "hibernalherbs:eatinganimations": {
+        "hidden": true,
+        "required": true
+      },
+
+      "minecraft:supporteatinganimation": {
+        "hidden": true,
+        "required": true
+      },
+
+      "consistency_plus:vanilla_changes": {
+        "hidden": true,
+        "required": true
+      },
+
+      "file/Sparkles_1.20.4_v1.0.3.zip": {
+        "hidden": true,
+        "required": true
+      },
+
+      "fabric": {
+        "hidden": true,
+        "required": true
+      },
+
+      "vanilla": {
+        "hidden": true,
+        "required": true
+      },
+
+      "extended_drawers:alt": {
+        "hidden": true
+      },
+
+      "extended_drawers:dev": {
+        "hidden": true
+      },
+
+      "railways:legacy_semaphore": {
+        "hidden": true
+      },
+
+      "white_icons": {
+        "hidden": true
+      },
+
+      "classic_icons": {
+        "hidden": true
+      },
+
+      "black_icons": {
+        "hidden": true
+      },
+
+      "hibernalherbs:barebones": {
+        "hidden": true
+      }
+    }
 }

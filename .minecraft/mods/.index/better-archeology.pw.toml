@@ -1,0 +1,13 @@
+filename = 'betterarcheology-1.1.0.jar'
+name = 'Better Archeology'
+side = 'both'
+
+[download]
+hash = '20fc95fbfd8ccad27c6be11b882226421aae7c7f8ab784e2561b787707c74619e301b1c1f5cce1b62e90e2b17bd1f939cff367e249731500f84955d7d415fb2b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zCh7omyG/versions/EJHNTdmP/betterarcheology-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'zCh7omyG'
+version = 'EJHNTdmP'

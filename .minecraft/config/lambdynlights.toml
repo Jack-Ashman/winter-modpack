@@ -697,4 +697,15 @@ mode = "fancy"
 
 			[light_sources.settings.entities.handcrafted]
 				seat = true
+				fancy_painting = true
+
+			[light_sources.settings.entities.doapi]
+				chair = true
+
+			[light_sources.settings.entities.vinery]
+				wandering_winemaker = true
+				mule = true
+
+			[light_sources.settings.entities.psychedelicraft]
+				molotov_cocktail = true
 

@@ -1,0 +1,13 @@
+filename = 'Psychedelicraft-Mod-Fabric-1.20.1.jar'
+name = 'Psychedelicraft'
+side = 'both'
+
+[download]
+hash = '7035afd9c16d9e21972808a00a881ee7c525f33f9257fd9b2ad970879b795193b3a40a87fcca97a1442874d474883dc104620b5fca5a995be55446c2e724b233'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8u2zZjRq/versions/5gEev6wo/psychedelicraft-1.6.7%2B1.20.jar'
+
+[update.modrinth]
+mod-id = '8u2zZjRq'
+version = '5gEev6wo'

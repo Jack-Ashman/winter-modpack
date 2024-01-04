@@ -1,0 +1,13 @@
+filename = 'CloudSettings-1.20.X-2.0.0.7-fabric.jar'
+name = 'CloudSettings'
+side = 'client'
+
+[download]
+hash = '0cdb4a2ea131d3c26fdb7de45c62691093caa2954f612e7626fe5b647c7c3ac443aab213f39fe33ca5c850a03f63113e1ad32600fb73361a34a42467ca535135'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nnu4dJj4/versions/JcCbDCdS/CloudSettings-1.20.X-2.0.0.7-fabric.jar'
+
+[update.modrinth]
+mod-id = 'nnu4dJj4'
+version = 'JcCbDCdS'

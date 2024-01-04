@@ -632,7 +632,7 @@
   },
   "internal": {
     "configGui": {
-      "category": "FEATURES",
+      "category": "ALL",
       "sortingStrategy": "ALPHABET"
     },
     "configStatistic": {
@@ -837,8 +837,8 @@
         "useAmount": 0
       },
       "pistorderClearDisplay": {
-        "lastUsedTime": 1703880121734,
-        "useAmount": 4
+        "lastUsedTime": 1704317820930,
+        "useAmount": 9
       },
       "pistorderDynamicallyInfoUpdate": {
         "lastUsedTime": 0,

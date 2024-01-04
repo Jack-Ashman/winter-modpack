@@ -1,13 +1,13 @@
-filename = 'CommandKeys-Fabric-1.20.1-1.1.0.jar'
-name = 'Command Keys'
-side = 'client'
+filename = 'CommandKeys-Fabric-1.20.1-1.1.1.jar'
+name = 'CommandKeys'
+side = 'both'
 
 [download]
-hash = '2f529d26a6011d8ba0d66d1428ab76e0451d68d967f33f5ad35005eb1d6fee216a5e212b2257df58c4a27c4af4efca30fad9c7f7c1c60a0fb4613f881c501bc0'
+hash = '8691c106f8eab97e1d5b7b8e9dcd587257c8a553f99393a2cfcdd808a6046b640527194a641e37378d55ba49b58e3eeed7ee83d03012aca60aca18c5f3f5265b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/65UyswbY/versions/FaEwq40W/CommandKeys-Fabric-1.20.1-1.1.0.jar'
+url = 'https://cdn.modrinth.com/data/65UyswbY/versions/ozYirq8w/CommandKeys-Fabric-1.20.1-1.1.1.jar'
 
 [update.modrinth]
 mod-id = '65UyswbY'
-version = 'FaEwq40W'
+version = 'ozYirq8w'

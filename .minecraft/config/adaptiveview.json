@@ -1,0 +1,11 @@
+{
+  "locked": 0,
+  "updateInterval": 600,
+  "minMspt": 40,
+  "maxMspt": 50,
+  "minMsptAggressive": 60,
+  "maxMsptAggressive": 30,
+  "minViewDistance": 4,
+  "maxViewDistance": 20,
+  "overrideClient": false
+}

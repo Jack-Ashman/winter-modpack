@@ -1,0 +1,13 @@
+filename = 'mobbossbars-1.1.1.jar'
+name = 'Mob Boss Bars'
+side = 'server'
+
+[download]
+hash = '5e3cce18693fe41b09427378eebd7f0c080440669405a1a9205416d786a402d090153d19bf92b62cf348b20982d5ebbc071d4e288603e2cdb78f7e7dc7e50a4e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ck652JvZ/versions/QxdMGbHG/mobbossbars-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'Ck652JvZ'
+version = 'QxdMGbHG'
